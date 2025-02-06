@@ -6,7 +6,7 @@ This project is a **real-time sign language translator** using a deep learning m
 ## 📂 Dataset
 The dataset used for training consists of images of sign language alphabets, with each alphabet stored in its own directory.
 
-📌 **Dataset Source:** [(https://www.kaggle.com/datasets/muhammadkhalid/sign-language-for-alphabets/code)]
+📌 **Dataset Source:** [link](https://www.kaggle.com/datasets/muhammadkhalid/sign-language-for-alphabets/code)
 
 ## ⚙️ Installation & Setup
 Follow these steps to set up and run the project:
