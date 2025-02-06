@@ -1,0 +1,14 @@
+# Ignore virtual environment
+venv/
+ml_env/
+
+# Ignore dataset and large files
+dataset/
+*.npy
+*.h5
+*.tflite
+
+# Ignore temporary and compiled files
+__pycache__/
+*.pyc
+.DS_Store
